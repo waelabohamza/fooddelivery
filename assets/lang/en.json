@@ -1,0 +1,39 @@
+{
+    "HOMESCREEN" : "HOME SCREEN" , 
+    "cart"  : "CART"   , 
+    "previous_orders" : "PREVIOUS ORDERS" ,
+    "transfermoney" : "TRANSFER MONEY",
+    "about_app" : "ABOUT APP",
+    "help" : "HELP",
+
+    "setting" : "SETTING",
+    "account_info" : "ACCOUNT INFORMATION",
+    "change_user_name" : "CHANGE USER NAME",
+    "change_email" : "CHANGE EMAIL",
+    "change_password" : "CHANGE PASSWORD",
+    "change_phone_no" : "CHANGE PHONE NUMBER",
+    "change_lang" : "CHANGE LANGUAGE",
+    "sign_out" : "SIGN OUT",
+
+    "what_you_want" : "WHAT YOU NEED TO ORDER",
+    "talab_pay" : "TALAB PAY",
+    "restaurant" : "RESTAURANT",
+    "restaurant_type" : "RESTAURANT TYPES",
+    "no_rest_found" : "THERE IS NO RESTAURANT FOUND",
+
+    "taxi" : "TAXI" ,
+    "offers": "OFFERS",
+
+    "close" : "close",
+    "do_you_want_exit" : "DO YOU WANT TO EXIT APP",
+
+    "notification" : " NOTIFICATIONS",
+    "no_message" : "THERE IS NO MESSAGE",
+
+    "categories" : "CATEGORIES",
+
+
+    "WHAT YOU NEED TO ORDER"  : "what you need to order"  , 
+    "PLEASE_WAIT" : "please wait"
+    
+}

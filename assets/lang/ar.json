@@ -1,0 +1,42 @@
+{
+    "HOMESCREEN"  : "الصفحة الرئيسية"   , 
+    "cart"  : "السلة"   , 
+    "previous_orders" : "طلباتي السابقة" ,
+    "transfermoney" : "تحويل الاموال",
+    "about_app" : "حول التطبيق",
+    "help" : "مساعدة",
+
+    "setting" : "الاعدادات",
+    "account_info" : "معلومات الحساب",
+    "change_user_name" : "تغيير اسم المستخدم",
+    "change_email" : "تغيير البريد الالكتروني",
+    "change_password" : "تغيير كلمة المرور",
+    "change_phone_no" : "تغيير رقم الهاتف",
+    "change_lang" : "تغيير اللغة",
+    "sign_out" : "تسجيل الخروج",
+    
+    "what_you_want" : "ماذا تريد ان تطلب",
+    "talab_pay" : "طلب باى",
+    "restaurant" : "المطاعم",
+    "restaurant_type" : "انواع المطاعم",
+    "no_rest_found" : "لا يوجد اي مطعم في هذا القسم",
+    
+    "taxi" : "تاكسي" ,
+    "offers": "العروض",
+
+    "close" : "اغلاق",
+    "do_you_want_exit" : "هل تريد الخروج من التطبيق",
+
+    "notification" : " الاشعارات",
+    "no_message" : "لا يوجد اي رسائل",
+
+    "categories" : "الاقسام",
+
+
+
+    "WHAT YOU NEED TO ORDER"  : "ماذا تريد ان تطلب"  ,
+    "PLEASE_WAIT" : "الرجاء الانتظار" , 
+    "can't add item from more then restaurant in same time" : "لا يمكن اضافة وجبة من اكثر من مطعم بوقت واحد"
+}
+
+ 
